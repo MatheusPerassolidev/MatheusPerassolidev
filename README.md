@@ -10,6 +10,4 @@
   <a href = "mailto:eimatheushenrique00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://https://www.linkedin.com/in/matheus-henrique-831442359" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div>
-
-![Snake Animation](https://raw.githubusercontent.com/MatheusPerassolidev/MatheusPerassolidev/output/github-contribution-grid-snake.svg)
+![Snake antmatlon](https://github.com/MatheusPerassolidev/MatheusPerassolidev/nt2/blob/output/glthub-contributlon-grld-snake.svg)
