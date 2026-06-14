@@ -1,0 +1,29 @@
+name: GitHub Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # a cada 12 horas
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Atualizar Snake
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate Snake Animation
+        uses: Platane/snk@master
+        with:
+          github_user_name: MatheusPerassolidev
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          # gif_out_path: dist/github-contribution-grid-snake.gif   # descomente se quiser GIF
+
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v4   # versão mais nova
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
