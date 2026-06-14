@@ -12,4 +12,4 @@
   
 </div>
 
-
+![Snake Animation](https://raw.githubusercontent.com/MatheusPerassolidev/MatheusPerassolidev/output/github-contribution-grid-snake.svg)
