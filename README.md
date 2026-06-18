@@ -1,3 +1,17 @@
+# Olá, eu sou Matheus Henrique F. Perassoli 👋
+
+🎓 Estudante de Engenharia de Software
+
+💻 Apaixonado por tecnologia, desenvolvimento de software e inovação.
+
+🚀 Atualmente focado em aprender desenvolvimento Full Stack, programação e boas práticas de desenvolvimento.
+
+📚 Sempre buscando novos conhecimentos e desafios para evoluir profissionalmente.
+
+🎯 Objetivo: construir uma carreira sólida na área de tecnologia e contribuir para projetos que gerem impacto real.
+
+📍 Paraná, Brasil
+
 <div align = "left">
 <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=MatheusPerassolidev&show_icons=true&show_icons=true&theme=dark&count_private=true" />
 <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPerassolidev&show_icons=true&theme=dark&count_private=true"/>
