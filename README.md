@@ -44,35 +44,38 @@
 
 ## 💻 Tecnologias
 
+
+
 <div>
+
   <img
-    alt="JavaScript"
-    title="JavaScript"
+
+    alt="C"
+
+    title="C"
+
     height="40"
+
     width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+
   />
+
   <img
-    alt="TypeScript"
-    title="TypeScript"
-    height="40"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
-  />
-  <img
-    alt="React"
-    title="React"
-    height="40"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-  />
-  <img
+
     alt="Python"
+
     title="Python"
+
     height="40"
+
     width="40"
+
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+
   />
+
 </div>
 
 ## 🐍 Minhas contribuições
