@@ -1,8 +1,16 @@
-# Olá, eu sou Matheus Henrique F. Perassoli 👋
+# Matheus Henrique Ferreira Perassoli
 
-🎓 Estudante de Engenharia de Software.
+**Engenharia de Software @ UniCesumar Maringá** • Formatura **dez/2029** • Noturno
+# Matheus Henrique Ferreira Perassoli
 
-💻 Apaixonado por tecnologia, desenvolvimento de software e inovação.
+**Engenharia de Software @ UniCesumar Maringá** • Formatura **dez/2029** • Noturno
+**Mandaguari, PR** • 🌎 **Disponível 100% remoto (Brasil) ou híbrido Maringá** • ⏰ **30h/sem diurnas**
+
+---
+
+## 🎯 Objetivo
+Estágio em **Desenvolvimento Backend / Full-stack / Dados / QA / Automação**
+Mentoria técnica real • Problemas reais • Cultura de testes e docs
 
 ## 📊 Estatísticas do GitHub
 
