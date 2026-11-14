@@ -1,11 +1,9 @@
 # Matheus Henrique Ferreira Perassoli
 
 **Engenharia de Software @ UniCesumar Maringá** • Formatura **dez/2029** • Noturno
-# Matheus Henrique Ferreira Perassoli
 
 **Engenharia de Software @ UniCesumar Maringá** • Formatura **dez/2029** • Noturno
-**Mandaguari, PR** • 🌎 **Disponível 100% remoto (Brasil) ou híbrido Maringá** • ⏰ **30h/sem diurnas**
-
+**Mandaguari, PR** 
 ---
 
 ## 🎯 Objetivo
